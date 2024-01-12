@@ -1,0 +1,8 @@
+*.xml
+.idea
+goal.png
+solution.html
+Solution
+solution
+.DS_Store
+__pycache__
